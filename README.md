@@ -1,6 +1,6 @@
 # Index
-- [bashscriptRun](./bashscriptRun/) ( bashscript run on go )
-- [fileio.bufio](./fileio.bufio/) ( read csv using bufio )
-- [go-chi-test](./go-chi-test/) ( go-chi 테스트 )
-- [helloWorld](./helloWorld/) ( initial commit )
-- [panicRecover](./panicRecover/) ( about panic recover example )
+- [bashscriptRun](./src/bashscriptRun/) ( bashscript run on go )
+- [fileio.bufio](./src/fileio.bufio/) ( read csv using bufio )
+- [go-chi-test](./src/go-chi-test/) ( go-chi 테스트 )
+- [helloWorld](./src/helloWorld/) ( initial commit )
+- [panicRecover](./src/panicRecover/) ( about panic recover example )
